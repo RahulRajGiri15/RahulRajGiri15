@@ -94,15 +94,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrajgiri15&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrajgiri15&theme=tokyonight" alt="GitHub Streak Stats"/>
-</div>
-
-
-<div align="center">
-  <i> "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</div>
-
 ---
 
 <div align="center">

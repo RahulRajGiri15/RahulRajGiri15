@@ -2,6 +2,13 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A Developer Evolving Through Code</h3>
 
+<div >
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=rahulrajgiri15&color=blue)
+  
+</div>
+
+
 <p align="left"> <a href="https://twitter.com/rahulraj__15" target="blank"><img src="https://img.shields.io/twitter/follow/rahulraj__15?logo=twitter&style=for-the-badge" alt="rahulraj__15" /></a> </p>
 
 - 💬 Ask me about **MERN, GenAI, LLMs, ML**

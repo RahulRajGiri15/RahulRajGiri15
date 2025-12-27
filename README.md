@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1jI4UA6GO9mim7SnhSk9F7urdjg9JM_IR/view?usp=sharing)
+![MasterHead](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A Developer Evolving Through Code</h3>
 
